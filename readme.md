@@ -4,8 +4,7 @@
 
 ## Hi there 👋
 
-<!--
-**This repository is dedicate to study Rust language.
+\*\*This repository is dedicate to study Rust language.
 
 Here are some ideas to get you started:
 
@@ -14,7 +13,3 @@ fn main() {
     println!("Welcome!");
 }
 ```
-
-
-
--->
