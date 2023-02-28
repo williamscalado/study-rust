@@ -2,7 +2,7 @@
     <img width="40%" src="https://cutewallpaper.org/24/rust-logo-png/download-hd-community-spotlight-rust-programming-language-transparent-png-image-nicepngcom.png">
 </p>
 
-## Hi there 👋
+## Hi Guys 👋
 
 # This repository is dedicate to study Rust language.
 
