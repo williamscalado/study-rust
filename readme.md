@@ -4,9 +4,7 @@
 
 ## Hi there 👋
 
-\*\*This repository is dedicate to study Rust language.
-
-Here are some ideas to get you started:
+# This repository is dedicate to study Rust language.
 
 ```rust
 fn main() {
